@@ -1,0 +1,9 @@
+ button {
+    width: 200px;
+    height: 50px;
+    background-color: #000;
+    color: #F0E8A0;
+    border: none;
+    font-size: 15px;
+    font-weight: 400;
+ }
